@@ -1,4 +1,4 @@
-function Luuletus() {
+export default function Luuletus() {
     return (
         <>
             <p>Kes hommikuti külas käib,</p>
@@ -14,4 +14,3 @@ function Luuletus() {
     )
 }
 
-export default Luuletus
